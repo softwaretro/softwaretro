@@ -1,3 +1,7 @@
+#softwaretro
+software scripts y app realizadas para msdos winsows applet II
+
+
 ### Hi there 👋
 
 <!--
