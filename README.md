@@ -3,7 +3,10 @@
 
 ### Hi there 👋
 
-software scripts y app realizadas para msdos winsows applet II
+1. script
+2. software
+3. apps
+
 <!--
 **softwaretro/softwaretro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
