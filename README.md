@@ -1,7 +1,9 @@
 
 
 
-### Hi there 👋
+### softwaretro 👋
+software creado para los sistemas operativos msdos y windows como applesoff
+usando basic qbasic y vbdos como visual basic y turbo pascal for windows 
 
 1. script
 2. software
