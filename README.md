@@ -7,7 +7,8 @@ usando basic qbasic y vbdos como visual basic y turbo pascal for windows
 
 1. script
 2. software
-3. apps
+3. juegos
+4. apps
 
 <!--
 **softwaretro/softwaretro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
